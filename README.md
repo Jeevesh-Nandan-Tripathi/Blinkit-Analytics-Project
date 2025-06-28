@@ -1,33 +1,33 @@
+🔍 Blinkit Analytics Project – From Data to Insights 🚚📊
+Excited to share my recent exploratory data analysis (EDA) project on Blinkit, a leading instant grocery delivery service!
 
-# Blinkit Analytics Project – From Data to Insights
+📌 Project Highlights:
 
-I’m excited to share my latest exploratory data analysis (EDA) project focused on Blinkit, a fast-growing instant grocery delivery platform.
+Conducted in-depth analysis of Blinkit's operational data.
 
-Project Summary:
+Identified top-performing cities, customer behavior trends, and key time slots for orders.
 
-Performed detailed analysis of Blinkit’s order and customer behavior data
+Visualized order patterns and category-wise performance.
 
-Uncovered insights on high-performing cities, peak delivery times, and category trends
+Applied Python, Pandas, Seaborn, and Matplotlib for analysis and visualization.
 
-Created impactful visualizations to communicate data-driven observations
+🔧 Tools & Technologies:
+Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
 
-Key Technologies Used:
-Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+💡 Key Insights:
 
-Top Insights:
+Peak delivery hours are evenings, especially between 6–10 PM.
 
-Evenings (especially 6–10 PM) are peak hours for order placement
+Cities like Bangalore and Delhi NCR dominate in terms of volume.
 
-Cities like Bangalore and Delhi NCR show highest order volumes
+Fruits & vegetables and dairy products are among the top categories.
 
-Most popular categories include fruits & vegetables and dairy products
+🧠 This project helped me improve my:
 
-This project sharpened my skills in:
+Data cleaning & wrangling skills
 
-Data wrangling and preprocessing
+Analytical thinking for business insights
 
-Exploratory data analysis and visualization
+Visualization techniques to convey complex data simply
 
-Interpreting data in a business context
-
-#DataScience #EDA #Python #DataAnalysis #JupyterNotebook #Seaborn #Matplotlib #Blinkit #ECommerce #GroceryDelivery #Analytics #DataVisualization #CustomerInsights #RetailAnalytics #SQL #Pandas #BusinessIntelligence #DataDriven #JobReady #PortfolioProject #LinkedInLearning
+#EDA #Python #DataAnalytics #Blinkit #Visualization #DataScience #AnalyticsProject #JupyterNotebook #LinkedInSharing
